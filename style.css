@@ -1,0 +1,30 @@
+.box{
+    max-width: 40%;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-shadow: green;
+    text-decoration-color: white;
+}
+.text{
+    padding-top: 30px;
+}
+.text2{
+   font-size: 14px; 
+}
+.text1{
+    color: black;
+}
+.text3{
+    color: green;
+}
+.text4{
+    color: blue;
+}
+.text5{
+    color: gray;
+}
+.letter{
+    font-size: 14px;
+}
